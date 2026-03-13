@@ -35,19 +35,18 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
+## Output:
+<img width="1911" height="783" alt="1" src="https://github.com/user-attachments/assets/da536242-4a54-4e8f-89be-71ddfc99a605" />
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
-
-## Output
+<img width="978" height="622" alt="2" src="https://github.com/user-attachments/assets/b5c543e3-6988-4483-a6f3-f9279c2f6242" />
+<img width="996" height="391" alt="3" src="https://github.com/user-attachments/assets/5aabc884-3211-4b97-b4d5-2620439ed794" />
 
 
-### Name:
-### Register Number: 
+### Name: B M Balaji
+### Register Number: 212225230029
+### Slot no : T1-L6
+
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
